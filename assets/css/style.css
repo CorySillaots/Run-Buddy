@@ -180,6 +180,6 @@ body {
     font-size: 23px;
   }
 
-  .steps h2 {
-    text-align: center;
+  .steps span {
+    font-size: 38px;
   }
