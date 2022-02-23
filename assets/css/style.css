@@ -272,5 +272,14 @@ body {
     color:#fce138;
   }
 
-
+  
+  
+  
+  .hero-secondary {
+    background-color: black;
+    font-size: 20px;
+    color: #fce138;
+    font-style: italic;
+    font-weight: lighter;
+  }
 
